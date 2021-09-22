@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @thanh24012006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Xin Chào mình là Võ Đình Thanh
+- 👀 Đã Có Ny
+- 🌱 Học Cao Đẳng
+- 💞️ VĐT&NTH
+- 📫 vodinhthanh.vpbq.2002@gmail.com
 
 <!---
-thanh24012006/thanh24012006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ThanhProcoder/14112002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
